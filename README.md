@@ -280,7 +280,6 @@ def run_banner():
        .'   `.          {Wh}--------------------------------
        :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
        : o    `.        {Wh}|       {Gr}@CODE BY x AWAN      {Wh}|
-                        {Wh |        {Gr}@X ALPHA          {Wh}| 
       :         ``.     {Wh}--------------------------------
      :             `.
     :  :         .   `.
